@@ -12,3 +12,7 @@ __pycache__/
 
 # VS Code
 .vscode/
+
+# Downloaded MuJoCo robot models
+assets/mujoco_menagerie/*
+!assets/mujoco_menagerie/franka_emika_panda/
